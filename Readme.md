@@ -105,6 +105,6 @@ A safe, isolated environment for wallet experimentation.
 ## 🔧 Installation
 
 ```bash
-git clone https://github.com/<your-username>/zaino-desktop.git
+git clone hhttps://github.com/Timi16/Zaino-desktop
 cd zaino-desktop
 yarn install
